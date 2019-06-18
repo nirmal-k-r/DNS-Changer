@@ -40,3 +40,15 @@ Usage
 - Please do the configuration first. Then you can continue with the usage steps below.
 
 - Run the script as __**Administrator**__ . You can do so by right clicking the `dns_swapper.bat` file and clicking `Run as Administrator` and clicking Yes to the prompt.
+
+
+Future Improvements
+------------------
+Inform me if you want me to make other scripts such as this for automating other manual processes.
+Some possible scripts could be:
+ 1. IP swapper
+    - Swap Ip configuration from DHCP to static
+ 2. Full Ip configuration swapper
+    - Swap IPand DNS `(Whole ipv4 config)` by choosing from a list of numbered configurations
+
+~ [Nirmal](https://github.com/nirmal-k-r)
