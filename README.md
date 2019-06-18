@@ -2,7 +2,7 @@
 
 Swap DNS servers from DHCP to static and vice-versa with this simple batch script.
 
-Written by: Nirmal | [@nirmal-k-r](https://github.com/nirmal-k-r)
+Written by: [Nirmal](https://github.com/nirmal-k-r)
 
 *History*
 --------------------------
